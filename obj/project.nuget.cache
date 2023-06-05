@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P//1vXtwTBisuxxU1eBF1T3olT8pC6SElE97KLW9nzR3SO4Op6PLSXjsS2uv3aceeHFgSzI0s8oGmFE4vkcW2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lowerstas\\Desktop\\CryptoPass\\CryptoPass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lowerstas\\.nuget\\packages\\sharpaescrypt.dll\\1.3.4\\sharpaescrypt.dll.1.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}

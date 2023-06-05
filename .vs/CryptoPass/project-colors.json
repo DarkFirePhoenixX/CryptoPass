@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d762202-a523-4400-9ab1-5ff4600a232b": {
+      "ProjectGuid": "1d762202-a523-4400-9ab1-5ff4600a232b",
+      "DisplayName": "CryptoPass",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
